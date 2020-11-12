@@ -1,3 +1,3 @@
 # hello
 second repository
-this is cahnge made in the branch
+this is change made in the branch
